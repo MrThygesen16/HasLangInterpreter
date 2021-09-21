@@ -4,7 +4,29 @@ This is a simple interpreter for a Haskell-like Language. Essentially we are doi
 
 
 
-For example, an expression like:
+For example, the following expression:
+
+```scala
+let
+    x   :: Int        = 100
+in
+    inc x
+```
+
+Should produce the following syntax tree:
+
+```scala
+Program(LetExp(
+                    Vector(Defn(
+                            IdnDef("x", IntType()),
+                            Vector(FunLine("", Vector(), IntExp(100))))),
+                    AppExp (IdnUse ("inc"), IdnUse ("x"))))
+```
+
+_________________
+
+
+Or for example, this much more complicated expression:
 
 ```scala
 let
@@ -16,7 +38,7 @@ let
         length x
 ```
 
-Should produce the following syntax tree:
+Should produce:
 
 ```scala
 Program(
