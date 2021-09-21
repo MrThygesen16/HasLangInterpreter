@@ -1,0 +1,195 @@
+run test/block2.fun
+clean
+exit
+compile
+test
+run test/simple.hal
+run test/block.hal
+run test/function.hal
+run test/nesting.hal
+compile
+test
+compile
+test
+clean
+exit
+test
+exit
+test
+run test/simple.hal
+run test/vSimple.hal
+test
+run test/simple.hal
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/simple.hal
+run test/vSimple.hal
+test
+run test/vSimple.hal
+run test/simple.hal
+test
+run test/simple.hal
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+                            StarExp (IntExp (3), IntExp (4))))))),
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+test
+run test/vSimple.hal
+run test/simple.hal
+run test/vSimple.hal
+test
+run test/vSimple.hal
+run test/nesting.hal
+run test/vSimple.hal
+test
+run test/vSimple.hal
+run test/temp.hal
+run test/vSimple.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test
+run test/temp.hal
+test

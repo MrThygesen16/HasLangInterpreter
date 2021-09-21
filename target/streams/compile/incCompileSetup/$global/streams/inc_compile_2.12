@@ -1,0 +1,586 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes
+compile options:
+6 items
+0 -> -deprecation
+1 -> -feature
+2 -> -unchecked
+3 -> -Xcheckinit
+4 -> -Xfatal-warnings
+5 -> -Xlint:-stars-align,-unused,_
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+76 items
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$AnyPat$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$AnyPat.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$AppExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$AppExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$BoolExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$BoolExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$BoolType$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$BoolType.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ConsExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ConsExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ConsPat$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ConsPat.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Defn$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Defn.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$EqualExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$EqualExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Exp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$FunLine$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$FunLine.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$FunType$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$FunType.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$HasLangNode.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IdentPat$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IdentPat.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Idn.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IdnDef$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IdnDef.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IdnUse$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IdnUse.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IfExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IfExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IntExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IntExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IntType$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IntType.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LamExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LamExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LessExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LessExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LetExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LetExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ListExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ListExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ListPat$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ListPat.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ListType$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ListType.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LiteralPat$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LiteralPat.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$MinusExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$MinusExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Pat.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$PlusExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$PlusExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Program$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Program.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$SlashExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$SlashExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$StarExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$StarExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$TupleExp$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$TupleExp.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$TuplePat$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$TuplePat.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$TupleType$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$TupleType.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Type.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$UnitType$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$UnitType.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$UnknownType$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$UnknownType.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/Main$.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/Main.class
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/SyntaxAnalysis.class
+binary dependencies:
+8 items
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /home/mike/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> /home/mike/.ivy2/cache/org.bitbucket.inkytonik.kiama/kiama_2.12/jars/kiama_2.12-2.1.0.jar
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> /home/mike/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> /home/mike/.ivy2/cache/org.bitbucket.inkytonik.kiama/kiama_2.12/jars/kiama_2.12-2.1.0.jar
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> /home/mike/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> /home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+76 items
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$AnyPat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$AnyPat$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$AppExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$AppExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$BoolExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$BoolExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$BoolType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$BoolType$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$ConsExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$ConsExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$ConsPat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$ConsPat$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$Defn
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$Defn$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$EqualExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$EqualExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$Exp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$FunLine
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$FunLine$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$FunType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$FunType$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$HasLangNode
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$IdentPat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$IdentPat$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$Idn
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$IdnDef
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$IdnDef$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$IdnUse
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$IdnUse$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$IfExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$IfExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$IntExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$IntExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$IntType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$IntType$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$LamExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$LamExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$LessExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$LessExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$LetExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$LetExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$ListExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$ListExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$ListPat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$ListPat$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$ListType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$ListType$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$LiteralPat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$LiteralPat$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$MinusExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$MinusExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$Pat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$PlusExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$PlusExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$Program
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$Program$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$SlashExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$SlashExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$StarExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$StarExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$TupleExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$TupleExp$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$TuplePat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$TuplePat$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$TupleType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$TupleType$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$Type
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$UnitType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$UnitType$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$UnknownType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang.HasLangTree$UnknownType$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> haslang.Main
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> haslang.Main$
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> haslang.SyntaxAnalysis
+used names:
+259 items
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> &&
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> <init>
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> ==
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> A
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> AbstractFunction0
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> AbstractFunction1
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> AbstractFunction2
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> AbstractFunction3
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Any
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> AnyPat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> AnyRef
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> AppExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> BoolExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> BoolType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Boolean
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> ConsExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> ConsPat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Defn
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> EqualExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Exp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> FunLine
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> FunType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> HasLangNode
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> HasLangTree
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> IdentPat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Identifier
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Idn
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> IdnDef
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> IdnUse
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> IfExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> IndexOutOfBoundsException
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Int
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> IntExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> IntType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Iterator
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> LamExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> LessExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> LetExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> ListExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> ListPat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> ListType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> LiteralPat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> MinusExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> None
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Nothing
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Object
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Option
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Pat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> PlusExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Predef
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Product
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Program
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> ScalaRunTime
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Serializable
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> SlashExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Some
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> StarExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Statics
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> String
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> T
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> T0
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> T1
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> T2
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> T3
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Tuple2
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Tuple3
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> TupleExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> TuplePat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> TupleType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Type
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> UnitType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> UnknownType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> Vector
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> _hashCode
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> _root_
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> _toString
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> arg
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> asInstanceOf
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> b
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> body
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> cond
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> defns
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> elemType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> elseExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> eq
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> exp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> exps
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> finalizeHash
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> fn
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> from
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> haslang
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> ident
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> idn
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> idndef
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> isInstanceOf
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> left
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> lines
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> mix
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> n
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> package
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> pats
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> right
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> runtime
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> scala
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> thenExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> tipe
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> to
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> toString
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> typedProductIterator
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> types
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> ||
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> <init>
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Any
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> AnyRef
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Array
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> ArrayOps
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Boolean
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Doc
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Exp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> FileNotFoundException
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> FileSource
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> HasLangTree
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Int
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Layout
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Main
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Nothing
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Object
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> PackratParser
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> ParseResult
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Parser
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Positions
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Predef
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> PrettyPrinter
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> PrettyPrinterTypes
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Program
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Source
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> String
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Success
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> SyntaxAnalysis
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> T
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> T0
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Unit
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> Width
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> any
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> apply
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> args
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> asInstanceOf
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> bitbucket
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> e
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> getMessage
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> haslang
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> inkytonik
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> io
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> isInstanceOf
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> java
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> kiama
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> layout
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> ofRef
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> org
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> output
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> parse
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> parser
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> parsers
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> parsing
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> positions
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> println
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> refArrayOps
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> result
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> scala
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> size
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> source
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> sourcetree
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> util
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> <byname>
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> <init>
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> <repeated>
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> <~
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> A
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Any
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> B
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> BoolExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Boolean
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Char
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Defn
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Exp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> FunLine
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Function1
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Function2
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> HasLangTree
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Identifier
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> IdnDef
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Int
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> IntExp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> IntType
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> List
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Nothing
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> PackratParser
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Parser
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Parsers
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Pat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Positions
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Predef
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Program
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Regex
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> String
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> StringOps
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> SyntaxAnalysis
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> T
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Type
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> U
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Unit
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> Vector
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> X
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> ^^
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> ^^^
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> any
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> apply
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> augmentString
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> basicpat
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> basictipe
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> bitbucket
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> collection
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> comment
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> constToTupleFunction2
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> exp
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> factor
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> failure
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> haslang
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> identifier
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> identifierBase
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> immutable
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> inkytonik
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> integer
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> keyword
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> keywordStrings
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> keywords
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> kiama
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> language
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> literal
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> memo
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> not
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> org
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> package
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> parsing
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> phrase
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> positions
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> postfixOps
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> program
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> r
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> regex
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> rep
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> s
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> scala
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> tipe
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> toInt
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> util
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> |
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> ~
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> ~>
+product stamps:
+76 items
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$AnyPat$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$AnyPat.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$AppExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$AppExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$BoolExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$BoolExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$BoolType$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$BoolType.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ConsExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ConsExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ConsPat$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ConsPat.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Defn$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Defn.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$EqualExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$EqualExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Exp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$FunLine$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$FunLine.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$FunType$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$FunType.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$HasLangNode.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IdentPat$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IdentPat.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Idn.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IdnDef$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IdnDef.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IdnUse$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IdnUse.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IfExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IfExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IntExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IntExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IntType$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$IntType.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LamExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LamExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LessExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LessExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LetExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LetExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ListExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ListExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ListPat$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ListPat.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ListType$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$ListType.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LiteralPat$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$LiteralPat.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$MinusExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$MinusExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Pat.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$PlusExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$PlusExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Program$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Program.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$SlashExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$SlashExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$StarExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$StarExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$TupleExp$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$TupleExp.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$TuplePat$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$TuplePat.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$TupleType$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$TupleType.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$Type.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$UnitType$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$UnitType.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$UnknownType$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree$UnknownType.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/HasLangTree.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/Main$.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/Main.class -> lastModified(1631512140000)
+/home/mike/Documents/COMP3000/comp3000-haslang/target/scala-2.12/classes/haslang/SyntaxAnalysis.class -> lastModified(1631512140000)
+source stamps:
+3 items
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> hash(e3a865268b75d14f397bd9a95d50a28a24435002)
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> hash(cf294e6ec91e867a0eafbdecd8babe03f6355a15)
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> hash(731b3b9a2f7c0bd30fe1e99802a6ba30ed2ead96)
+binary stamps:
+3 items
+/home/mike/.ivy2/cache/org.bitbucket.inkytonik.kiama/kiama_2.12/jars/kiama_2.12-2.1.0.jar -> lastModified(1497841555000)
+/home/mike/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar -> lastModified(1543918558000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1619005569000)
+class names:
+3 items
+/home/mike/.ivy2/cache/org.bitbucket.inkytonik.kiama/kiama_2.12/jars/kiama_2.12-2.1.0.jar -> org.bitbucket.inkytonik.kiama.parsing.Parsers
+/home/mike/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar -> scala.collection.immutable.StringOps
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.io.Serializable
+internal apis:
+3 items
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwe/O+/QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABjc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtCr62XQABm5vdGlmeXNxAH4ADHYKJtN0AAdGdW5UeXBlc3EAfgAM4vBxJnQAB3VuYXBwbHlzcQB+AAzvQLSUdAALVW5rbm93blR5cGVzcQB+AAwfriQPdAAHY3VycmllZHNxAH4ADEdwosp0AAhCb29sVHlwZXNxAH4ADH4TxO10AARib2R5c3EAfgAMEPN0BHQAB1BsdXNFeHBzcQB+AAyRGL9ZdAAITWludXNFeHBzcQB+AAwXhMr6dAAHTGlzdFBhdHNxAH4ADP0IPhJ0AANpZG5zcQB+AAwMqq+hdAAEd2FpdHNxAH4ADHheIo10AAd0aGVuRXhwc3EAfgAMeHZH93QADmNvcHkkZGVmYXVsdCQyc3EAfgAMbSjkjXQADSRhc0luc3RhbmNlT2ZzcQB+AAy+Nt2bdAAFZGVmbnNzcQB+AAxQBtJwdAABbnNxAH4ADO3yxjh0AAdjb21wb3Nlc3EAfgAMd15DgHQABklkblVzZXNxAH4ADDWN4NV0AAZBbnlQYXRzcQB+AAzOrTBGdAAMcHJvZHVjdEFyaXR5c3EAfgAM/jDeInQABHRpcGVzcQB+AAx3rwtodAAGZXF1YWxzc3EAfgAM/vppiXQAA1BhdHNxAH4ADExcqml0AAhUdXBsZVBhdHNxAH4ADGAq8fp0AAxhc0luc3RhbmNlT2ZzcQB+AAxCnpIvdAAHRnVuTGluZXNxAH4ADCAySE10AAxzeW5jaHJvbml6ZWRzcQB+AAxY+J62dAAEbGVmdHNxAH4ADCK/b/V0AAhUdXBsZUV4cHNxAH4ADOT9TOx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMwxU5d3QABGV4cHNzcQB+AAwaJ9K2dAAHYW5kVGhlbnNxAH4ADM/jWOB0AAdJbnRUeXBlc3EAfgAMN4uRnXQABnR1cGxlZHNxAH4ADH3jGY10AAdDb25zRXhwc3EAfgAMwMpDqnQAB1N0YXJFeHBzcQB+AAyWn654dAAIY2FuRXF1YWxzcQB+AAzAHQsedAANcHJvZHVjdFByZWZpeHNxAH4ADPqrlIl0AANleHBzcQB+AAx9JdsIdAAHUHJvZ3JhbXNxAH4ADOgU02l0AAlub3RpZnlBbGxzcQB+AAy/V26qdAAHTGlzdEV4cHNxAH4ADME2/0B0AAJ0b3NxAH4ADC+R3Fh0AAhlbGVtVHlwZXNxAH4ADMrfjl50AANJZG5zcQB+AAzUSApLdAAHZWxzZUV4cHNxAH4ADK8RTpV0AAhVbml0VHlwZXNxAH4ADFgwUnB0AAxpc0luc3RhbmNlT2ZzcQB+AAxMDcAKdAACZm5zcQB+AAxWRSHmdAAGPGluaXQ+c3EAfgAMEOQSHHQABWlkZW50c3EAfgAM+SkqKnQAC0hhc0xhbmdOb2Rlc3EAfgAMwhzssnQAA0V4cHNxAH4ADNDK0jp0AAFic3EAfgAMi3O15HQABWFwcGx5c3EAfgAM2SE2DXQABklkbkRlZnNxAH4ADJcjIwF0AARwYXRzc3EAfgAMcy3YDnQAAj09c3EAfgAMAxjdPnQABWNsb25lc3EAfgAMR94IwXQABGZyb21zcQB+AAz0po3SdAAGQXBwRXhwc3EAfgAMJ7pOR3QAB0NvbnNQYXRzcQB+AAzgrrkAdAAGJGluaXQkc3EAfgAMuA5ayXQABkxhbUV4cHNxAH4ADLSuun10AA5jb3B5JGRlZmF1bHQkM3NxAH4ADFEqoLh0AARjb3B5c3EAfgAMINYQbHQACklkZW50aWZpZXJzcQB+AAyfm4NVdAALSGFzTGFuZ1RyZWVzcQB+AAzVvMSedAAIU2xhc2hFeHBzcQB+AAwYFrUxdAAJVHVwbGVUeXBlc3EAfgAMyB23I3QABkludEV4cHNxAH4ADCpkckd0AAh0b1N0cmluZ3NxAH4ADG0zrkF0AAREZWZuc3EAfgAMQ4FSVXQAAiE9c3EAfgAMbZ7coHQABGNvbmRzcQB+AAxp/fuHdAAHQm9vbEV4cHNxAH4ADB47Wi50AAhnZXRDbGFzc3NxAH4ADCnZ+d10AA5jb3B5JGRlZmF1bHQkMXNxAH4ADC4PEAR0AAhJZGVudFBhdHNxAH4ADFU7bT10AAhMaXN0VHlwZXNxAH4ADAk0fRB0AAhFcXVhbEV4cHNxAH4ADG3F7pp0AAZMZXRFeHBzcQB+AAyXANa7dAAFbGluZXNzcQB+AAxI6fj0dAACbmVzcQB+AAx7NnzYdAAFdHlwZXNzcQB+AAyRnLILdAAKTGl0ZXJhbFBhdHNxAH4ADFjA33l0AAdMZXNzRXhwc3EAfgAM/mMbmHQAAmVxc3EAfgAMrnlyCXQABmlkbmRlZnNxAH4ADIqzmu10AANhcmdzcQB+AAxSdVYDdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMXlhg8nQABXJpZ2h0c3EAfgAM/FZjwHQAAiMjc3EAfgAMFJ83qHQACGZpbmFsaXplc3EAfgAMDuhbI3QADnByb2R1Y3RFbGVtZW50c3EAfgAMwjvv0HQACGhhc2hDb2Rlc3EAfgAMYjOMa3QABFR5cGVzcQB+AAxudtXndAAFSWZFeHBzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgDdeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAATaGFzbGFuZy5IYXNMYW5nVHJlZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4A9nNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgDdTAAJaW5oZXJpdGVkcQB+AN1MAAdwYXJlbnRzcQB+AN14cQB+APtzcQB+APZ1cQB+ANgAAAAAc3EAfgD2dXEAfgDYAAAAAHNxAH4A9nVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4A+nQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4A+nNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4BE3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BFHNxAH4BB3QAA0FueXNxAH4BC3NxAH4BDnVxAH4BEQAAAAJzcQB+ARN0AAVzY2FsYXEAfgEadXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHaGFzbGFuZ3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABe92zboZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIL2hvbWUvbWlrZS9Eb2N1bWVudHMvQ09NUDMwMDAvY29tcDMwMDAtaGFzbGFuZy90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU46hlJot10U85e9mpXVCiiiRDUAI=
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwRsP5kgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzBlPM3QABm5vdGlmeXNxAH4ADKjWn4l0AAR3YWl0c3EAfgAMTSMLrXQADSRhc0luc3RhbmNlT2ZzcQB+AAwL0MNtdAAGZXF1YWxzc3EAfgAM/I2v23QADGFzSW5zdGFuY2VPZnNxAH4ADOqbvc50AAxzeW5jaHJvbml6ZWRzcQB+AAxtTEhIdAANJGlzSW5zdGFuY2VPZnNxAH4ADPi2etJ0AARtYWluc3EAfgAMcXT1n3QACW5vdGlmeUFsbHNxAH4ADN9q8xV0AAxpc0luc3RhbmNlT2ZzcQB+AAyG7HnidAACPT1zcQB+AAwrDy35dAAFY2xvbmVzcQB+AAzXhyILdAAETWFpbnNxAH4ADCBgYaJ0AAh0b1N0cmluZ3NxAH4ADFPz7AV0AAIhPXNxAH4ADPm3pV10AAhnZXRDbGFzc3NxAH4ADHC4t7B0AAJuZXNxAH4ADEUtHeV0AAJlcXNxAH4ADNEJVqx0AAIjI3NxAH4ADPN0uHB0AAhmaW5hbGl6ZXNxAH4ADHBRJIF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AAxoYXNsYW5nLk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBfc3EAfgBadXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF50AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBec3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB6dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZ3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AblsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXnNxAH4AbXQABUFycmF5cQB+AHN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbXQABlN0cmluZ3NxAH4AcXNxAH4AdHVxAH4AdwAAAANzcQB+AHl0AARqYXZhc3EAfgB5dAAEbGFuZ3EAfgB+c3EAfgBadXEAfgA8AAAAAHNxAH4AWnVxAH4AkgAAAAJzcQB+AG10AAZPYmplY3RxAH4AlnNxAH4AbXQAA0FueXEAfgBzdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHaGFzbGFuZ3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABe92zboZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIL2hvbWUvbWlrZS9Eb2N1bWVudHMvQ09NUDMwMDAvY29tcDMwMDAtaGFzbGFuZy90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUzylObskehnoOr73s2Lq+A/Y1WhU=
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwqTa/6QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAA5zcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHD1wTc6dAAFcmVnZXhzcQB+AAu2P7xWdAATcGFyc2VSZXN1bHRUb1R1cGxlMnNxAH4ACzCDMNx0ABVjb25zdFRvVHVwbGVGdW5jdGlvbjRzcQB+AAsDaLTqdAATcGFyc2VSZXN1bHRUb1R1cGxlNnNxAH4AC6D8eCZ0ABVjb25zdFRvVHVwbGVGdW5jdGlvbjJzcQB+AAuwS7cOdAAVY29uc3RUb1R1cGxlRnVuY3Rpb242c3EAfgALGBZjR3QAFWNvbnN0VG9UdXBsZUZ1bmN0aW9uM3NxAH4AC/s6xJ10ABNwYXJzZVJlc3VsdFRvVHVwbGU1c3EAfgAL6bL4b3QAFWNvbnN0VG9UdXBsZUZ1bmN0aW9uNXNxAH4ACzgKDJ90ABNwYXJzZVJlc3VsdFRvVHVwbGU0c3EAfgALuo7iT3QAB2xpdGVyYWxzcQB+AAvcsyf2dAAEbWVtb3NxAH4ACzUHxq10ABNwYXJzZVJlc3VsdFRvVHVwbGUzc3EAfgALHTrKpXQAGFBvc3RmaXh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BLnQABkFuc3dlcnNxAH4AC0LXArh0AAJMUnNxAH4AC2wNjpp0AAZNYXJrZXJzcQB+AAtAvIzBdAAGYXBwZW5kc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFmhhc2xhbmcuU3ludGF4QW5hbHlzaXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BYHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgFHTAAJaW5oZXJpdGVkcQB+AUdMAAdwYXJlbnRzcQB+AUd4cQB+AWVzcQB+AWB1cQB+AUIAAAAAc3EAfgFgdXEAfgFCAAAAAHNxAH4BYHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAFc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4BZHQAB1BhcnNlcnNzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AWRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAZzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4BfXQACWJpdGJ1Y2tldHNxAH4BfXQACWlua3l0b25pa3NxAH4BfXQABWtpYW1hc3EAfgF9dAAHcGFyc2luZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgF+c3EAfgFxdAAXVmVjdG9yUmVwZXRpdGlvblBhcnNlcnNxAH4Bd3NxAH4BcXQAC1BhcnNlcnNCYXNlcQB+AXdzcQB+AXF0AAZPYmplY3RzcQB+AXVzcQB+AXh1cQB+AXsAAAADc3EAfgF9dAAEamF2YXNxAH4BfXQABGxhbmdxAH4BinNxAH4BcXQAA0FueXNxAH4BdXNxAH4BeHVxAH4BewAAAAJzcQB+AX10AAVzY2FsYXEAfgGKdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAHaGFzbGFuZ3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABe92zboZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABIL2hvbWUvbWlrZS9Eb2N1bWVudHMvQ09NUDMwMDAvY29tcDMwMDAtaGFzbGFuZy90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUcxs7mi98C9MP4emYAqa6MO0urZY=
+external apis:
+0 items
+source infos:
+3 items
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/HasLangTree.scala -> 
+AAAAAAAAAAA=
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/Main.scala -> 
+AAAAAAAAAAA=
+/home/mike/Documents/COMP3000/comp3000-haslang/src/main/scala/SyntaxAnalysis.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABe92zboZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21pa2UvRG9jdW1lbnRzL0NPTVAzMDAwL2NvbXAzMDAwLWhhc2xhbmcvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
