@@ -1,6 +1,6 @@
 # HasLangInterpreter
 
-This is a simple interpreter for a Haskell-like Language. Essentially we are doing a syntax analysis of expressions, and checking if they are valid or not. We check the validity by producing a syntax-tree. Furthermore, we most adhere to the correct precedence and associativity as laid out...
+This is a simple interpreter for a Haskell-like Language. Essentially we are doing a syntax analysis of expressions, and checking if they are valid or not. We check the validity by producing a syntax-tree. Furthermore, we must adhere to the correct precedence and associativity as laid out...
 
 
 
